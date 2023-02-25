@@ -27,7 +27,7 @@ class Factura {
     public void addItem(){
         cantidadItems++;
         valorTotal = (double) (3000 * cantidadItems);
-        System.out.println("item # "+cantidadItems);
+        System.out.println("Produc # "+cantidadItems);
     }
 
     public void consultarSaldo(){
