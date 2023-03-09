@@ -1,4 +1,3 @@
-import java.util.Date;
 
 public class pgmPrinf{
     public static void main(String[] args) {
