@@ -1,0 +1,4 @@
+print('1. 27 DE ABRIL 2023')
+print('2. ME ENCUENTRO MOTIVADO')
+print('3. SI ES DIFICIL ES POR QUE VALE LA PENA, SIGUE INSITIENDO')
+print('4. 🏅')
