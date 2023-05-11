@@ -4,7 +4,7 @@ import java.util.Date;
 import java.lang.Exception;
 import java.lang.Thread;
 
-public class pgmContador {
+public class MainFour {
     public static void main(String[] args) {
         System.out.println("+--------------------------------------------+");
         System.out.println("+------------- PGM: PgmContador -------------+");

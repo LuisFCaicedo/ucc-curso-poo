@@ -1,6 +1,6 @@
 //package Java.06_pgm_avion;
 
-public class MainAirships {
+public class MainSix {
     public static void main(String[] args) {
 
         Avion avion = new TipoComercial();

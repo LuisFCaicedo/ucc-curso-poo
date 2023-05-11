@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class pgmfacturas{
+public class MainTwo{
     public static void main(String[] args) {
         Factura f = new Factura();
         f.setFecha(new Date());

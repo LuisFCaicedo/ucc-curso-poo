@@ -1,4 +1,4 @@
-public class MainGrandPrix {
+public class MainFive {
     /**
      * @param args
      */
