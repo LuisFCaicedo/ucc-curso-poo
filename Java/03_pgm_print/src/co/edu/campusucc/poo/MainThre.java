@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class pgmPrinf{
+public class MainThre{
     public static void main(String[] args) {
         System.out.println("+-----------------------+");
         System.out.println("|-----pgm: Print 🖨 -----|");

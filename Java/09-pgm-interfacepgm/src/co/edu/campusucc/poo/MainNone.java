@@ -7,7 +7,7 @@ import co.edu.campusucc.poo.instances.Jet;
 import co.edu.campusucc.poo.instances.Jumbo;
 
 
-public class Main{
+public class MainNone{
 
     public static void main(String[] args) {
        

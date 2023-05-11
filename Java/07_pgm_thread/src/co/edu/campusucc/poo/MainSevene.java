@@ -4,7 +4,7 @@ import java.util.Random;
 
 import co.edu.campusucc.poo.domain.ThereadExtends;
 
-public class MainThreadExtends{
+public class MainSevene{
     public static void main(String[] args) {
      
         ThereadExtends thread = new ThereadExtends();
