@@ -7,7 +7,7 @@
 | ------------------------------------------ | --------------------- | --------------  |
 | C++            | [`c++`](./c++)        | `Completed✅`   |
 | Java       | [`java`](./java/)     | `Completed✅`   |
-| Python | [`python`](./python/) | `In Progress⏳` |
+| Python | [`python`](./python/) | `Completed✅` |
 | Ruby       | [`ruby`](./ruby/)     | `In Progress⏳` |
 | Go             | [`go`](./go/)         | `Pending📌`     |
 
