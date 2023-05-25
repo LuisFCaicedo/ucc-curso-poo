@@ -1,4 +1,4 @@
-# **UCC-POO** ![icon](./images/code.png) 
+# **UCC-POO** 
 ### Curso programacion Orientada a Objetos de la UCC
 
 # **Projects Programing Language** 
@@ -7,8 +7,8 @@
 | ------------------------------------------ | --------------------- | --------------  |
 | C++            | [`c++`](./c++)        | `Completed✅`   |
 | Java       | [`java`](./java/)     | `Completed✅`   |
-| Python | [`python`](./python/) | `In Progress⏳` |
-| Ruby       | [`ruby`](./ruby/)     | `In Progress⏳` |
+| Python | [`python`](./python/) | `Completed✅` |
+| Ruby       | [`ruby`](./ruby/)     | `Completed✅` |
 | Go             | [`go`](./go/)         | `Pending📌`     |
 
 ## Next Projects
