@@ -1,4 +1,4 @@
-# **UCC-POO** ![icon](./images/code.png) 
+# **UCC-POO** 
 ### Curso programacion Orientada a Objetos de la UCC
 
 # **Projects Programing Language** 
