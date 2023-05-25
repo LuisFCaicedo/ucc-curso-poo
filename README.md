@@ -8,7 +8,7 @@
 | C++            | [`c++`](./c++)        | `Completed✅`   |
 | Java       | [`java`](./java/)     | `Completed✅`   |
 | Python | [`python`](./python/) | `Completed✅` |
-| Ruby       | [`ruby`](./ruby/)     | `In Progress⏳` |
+| Ruby       | [`ruby`](./ruby/)     | `Completed✅` |
 | Go             | [`go`](./go/)         | `Pending📌`     |
 
 ## Next Projects
